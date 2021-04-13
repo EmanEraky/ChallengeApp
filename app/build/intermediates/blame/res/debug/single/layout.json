@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_search.xml",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\layout_search.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_search.xml",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\toolbar_search.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_detail.xml",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_character.xml",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\row_character.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details.xml",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_search.xml",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\item_search.xml"
+    }
+]

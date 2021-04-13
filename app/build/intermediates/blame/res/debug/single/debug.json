@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_detail.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_name.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\frame_name.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone_call.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone_call.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_search.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_marvel_logo.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\marvel_logo.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone_call.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_search.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\toolbar_search.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_gray.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\back_gray.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_character.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\row_character.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_warning.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_phone_call.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_phone_call.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mcu_background.jpeg.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\mcu_background.jpeg"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_slogo.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable-xxhdpi\\slogo.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone_call.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone_call.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone_call.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone_call.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_search.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\layout_search.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\ic_search_white.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_search.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable\\back_search.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eman\\Challenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\eman\\Challenge\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

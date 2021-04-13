@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="itemsMarvel"
+            type="com.eman.challenge.domain.model.Items" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/container_subdetail"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_width="match_parent"
+            android:id="@+id/card_img"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="7dp"
+            android:layout_marginBottom="2dp"
+            app:cardBackgroundColor="@color/colorDetail"
+            app:cardCornerRadius="15dp">
+
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/image_item_subdetail"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:contentDescription="@null"
+                android:marvelImage="@{itemsMarvel.resourceURI}"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:scaleType="fitXY"
+                tools:src="@drawable/mcu_background" />
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+
+            android:id="@+id/text_item_subdetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@{itemsMarvel.name}"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/card_img" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
